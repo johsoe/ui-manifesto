@@ -76,6 +76,10 @@ When a list is reloading content. **We should always implement pull to refresh i
 | Merge/diff results so the list is partly updated or even animated with changes |  |
 
 
+### Settings/"auto saving" loading
+
+TODO
+
 ## Empty state/views
 
 ## Error handling
